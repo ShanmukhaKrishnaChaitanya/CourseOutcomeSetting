@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../OneDrive/Desktop/programs"
+	},
+	{
+		"path": "../../../../xampp/htdocs/hostel_info"
+	},
+	{
+		"path": "../../../../GNU-Prolog/codes"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "hostel_info"
+  }
+}
